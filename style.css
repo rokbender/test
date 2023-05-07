@@ -117,7 +117,7 @@ body{
         height: 100%;
     }
     .listitem{
-        
+        min-width:50vw;
     }
     .main{
         flex-direction: column;
